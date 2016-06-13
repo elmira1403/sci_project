@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SCI</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recommendation">Recommended Cases</string>
+    <string name="profile_category">Profile</string>
+    <string name="recently_watched_cases_category">Profile</string>
+    <string name="exit_category">Profile</string>
+    <string name="recommended_cases">Recommended Cases</string>
+    <string name="recommended_cases_category">Recommended Cases</string>
+    <string-array name="recomended_cases">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="homelist">
+        <item>Profile</item>
+        <item>Recommended Cases</item>
+        <item>Recently Watched Cases</item>
+        <item>Exit</item>
+    </string-array>
+    <string name="title_activity_show_case">ShowCaseActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_recently_watched_cases">RecentlyWatchedCasesActivity</string>
+</resources>
